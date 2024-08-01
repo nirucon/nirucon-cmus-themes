@@ -6,3 +6,7 @@ My custom cmus themes:
 
 Default rc:
 - nirucon-noir.theme hard coded (!!)
+
+## License
+
+Feel free to use and modify, donate if you want :) https://www.paypal.com/paypalme/nicklasrudolfsson
